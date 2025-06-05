@@ -18,7 +18,7 @@
 - 💼 Chairperson of SLRTCE CSI
 - 🌱 Currently learning **React.js** and **Machine Learning**
 - 💬 Ask me about **Front-End Development**, **Python**, and **Web Development**
-- 📫 Reach me at: [ambujpandey57@gmail.com](mailto:ambujpandey57@gmail.com)
+- 📫 Reach me at: [ambujpandeyofficial@gmail.com](mailto:ambujpandeyofficial@gmail.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ambujpandey007)
 
 ---
