@@ -18,7 +18,7 @@
 - 🌱 Currently learning **ReactJS, ML, Firebase,** and **DevOps tools**
 - 💬 Ask me about **Front-End Dev, Python Projects, or Education Startups**
 - 🤝 Always open to collaborating on impactful and innovative projects
-- 📫 Reach me: **[ambujpandey57@gmail.com](mailto:ambujpandey57@gmail.com)**
+- 📫 Reach me: **[ambujpandeyofficial@gmail.com](mailto:ambujpandeyofficial@gmail.com)**
 
 ---
 
